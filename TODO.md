@@ -1,0 +1,4 @@
+- add folders divider
+- add play\pause process
+- add previous\next track navigation
+- queue audio tracks
